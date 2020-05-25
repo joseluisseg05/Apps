@@ -1,0 +1,47 @@
+{
+    "nombreApp": "GreenPlaces",
+    "datagp":[
+        {
+            "id":"1",
+            "titulo":"Departamentos Green",
+            "costo":"$120000",
+            "descripcion":"There is an old word with a changing detinition The word is 'Green', We are starting to see it used to symbolize being environmentally friendly and Sustainablo. With the rising costs of living and the concerns of global warming, more and more people and companies are looking for ways to be 'Green'.",
+            "imagen":"img1.jpg"
+        },
+        {
+            "id":"2",
+            "titulo":"Departamentos LEV TAT",
+            "costo":"$250000",
+            "descripcion":"There is an old word with a changing detinition The word is 'Green', We are starting to see it used to symbolize being environmentally friendly and Sustainablo. With the rising costs of living and the concerns of global warming, more and more people and companies are looking for ways to be 'Green'.",
+            "imagen":"img2.jpg"
+        },
+        {
+            "id":"3",
+            "titulo":"Departamentos Zulim",
+            "costo":"$89000",
+            "descripcion":"There is an old word with a changing detinition The word is 'Green', We are starting to see it used to symbolize being environmentally friendly and Sustainablo. With the rising costs of living and the concerns of global warming, more and more people and companies are looking for ways to be 'Green'.",
+            "imagen":"img3.jpg"
+        },
+        {
+            "id":"4",
+            "titulo":"Zulim House",
+            "costo":"$320000",
+            "descripcion":"There is an old word with a changing detinition The word is 'Green', We are starting to see it used to symbolize being environmentally friendly and Sustainablo. With the rising costs of living and the concerns of global warming, more and more people and companies are looking for ways to be 'Green'.",
+            "imagen":"img4.jpg"
+        },
+        {
+            "id":"5",
+            "titulo":"Mine House",
+            "costo":"$50000",
+            "descripcion":"There is an old word with a changing detinition The word is 'Green', We are starting to see it used to symbolize being environmentally friendly and Sustainablo. With the rising costs of living and the concerns of global warming, more and more people and companies are looking for ways to be 'Green'.",
+            "imagen":"img5.jpg"
+        },
+        {
+            "id":"6",
+            "titulo":"VIP Green",
+            "costo":"$$35000",
+            "descripcion":"There is an old word with a changing detinition The word is 'Green', We are starting to see it used to symbolize being environmentally friendly and Sustainablo. With the rising costs of living and the concerns of global warming, more and more people and companies are looking for ways to be 'Green'.",
+            "imagen":"img6.jpg"
+        }
+    ]
+}
